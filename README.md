@@ -115,6 +115,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/wei-zZZ/ssr/mas
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 ```
 
+## ssrmu.sh支持ss与ssr 源码再上面
+wget -N --no-check-certificate https://makeai.cn/bash/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+
+
 ---
 ## brook.sh
 
